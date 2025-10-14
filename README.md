@@ -3,7 +3,7 @@
 # slide
 https://www.canva.com/design/DAG1gLflQmU/Z_rZXPUt6WGbKWWyfIGfhw/edit?utm_content=DAG1gLflQmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # web-site
-https://skincare-guru-ai-2.streamlit.app/
+https://skincare-guru-ai-3.streamlit.app/
 
 #สมาชิก
 ชฎาภา อนุกูลเรืองรุ่ง (670510698)        
