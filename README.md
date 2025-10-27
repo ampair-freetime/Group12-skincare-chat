@@ -5,7 +5,6 @@
 https://www.canva.com/design/DAG1gLflQmU/Z_rZXPUt6WGbKWWyfIGfhw/edit?utm_content=DAG1gLflQmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # web-site
 https://skincare-guru-ai-3.streamlit.app/
-
 # member
 ชฎาภา อนุกูลเรืองรุ่ง (670510698)  front-end    
 ฐิติพันธ์ วงศ์สุรดาพร (670510703)  front-end    
